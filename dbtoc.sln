@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbtoc", "dbtoc\dbtoc.csproj", "{CA4A2825-4C68-4625-9E99-131E36DCECD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4A2825-4C68-4625-9E99-131E36DCECD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4A2825-4C68-4625-9E99-131E36DCECD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4A2825-4C68-4625-9E99-131E36DCECD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4A2825-4C68-4625-9E99-131E36DCECD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EAE4072-27AB-4DA5-97E5-48419D07E569}
+	EndGlobalSection
+EndGlobal
