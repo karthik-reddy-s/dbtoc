@@ -51,8 +51,15 @@ namespace dbtoc.Controllers
             var result1 = _context.Employees.ToList();
             return Ok(result1);
         }
+        [HttpGet]
+        [Route("employeesr")]
+        public ActionResult GetEmployees1()
+        {
+            var result1 = _context.Employees.ToList();
+            return Ok(result1);
+        }
 
-           //post request
+        //post request
 
         [HttpPost, Route("createnewemployee")]
         public ActionResult CreateEmployee([FromBody] Department depar)
